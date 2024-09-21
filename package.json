@@ -1,0 +1,22 @@
+{
+  "name": "arizona",
+  "version": "1.0.0",
+  "description": "backend for familiar expenses tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memecgavante/arizona.git"
+  },
+  "author": "Meme C. Gavante @memecgavante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/memecgavante/arizona/issues"
+  },
+  "homepage": "https://github.com/memecgavante/arizona#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
